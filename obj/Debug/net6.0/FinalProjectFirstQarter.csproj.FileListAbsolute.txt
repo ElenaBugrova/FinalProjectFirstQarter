@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Лена\GeekBrains\ТестировщикПО\Практика\ПрактикаC#\FinalProjectFirstQarter\bin\Debug\net6.0\FinalProjectFirstQarter.exe
+C:\Users\user\Desktop\Лена\GeekBrains\ТестировщикПО\Практика\ПрактикаC#\FinalProjectFirstQarter\bin\Debug\net6.0\FinalProjectFirstQarter.deps.json
+C:\Users\user\Desktop\Лена\GeekBrains\ТестировщикПО\Практика\ПрактикаC#\FinalProjectFirstQarter\bin\Debug\net6.0\FinalProjectFirstQarter.runtimeconfig.json
+C:\Users\user\Desktop\Лена\GeekBrains\ТестировщикПО\Практика\ПрактикаC#\FinalProjectFirstQarter\bin\Debug\net6.0\FinalProjectFirstQarter.dll
+C:\Users\user\Desktop\Лена\GeekBrains\ТестировщикПО\Практика\ПрактикаC#\FinalProjectFirstQarter\bin\Debug\net6.0\FinalProjectFirstQarter.pdb
+C:\Users\user\Desktop\Лена\GeekBrains\ТестировщикПО\Практика\ПрактикаC#\FinalProjectFirstQarter\obj\Debug\net6.0\FinalProjectFirstQarter.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Лена\GeekBrains\ТестировщикПО\Практика\ПрактикаC#\FinalProjectFirstQarter\obj\Debug\net6.0\FinalProjectFirstQarter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Лена\GeekBrains\ТестировщикПО\Практика\ПрактикаC#\FinalProjectFirstQarter\obj\Debug\net6.0\FinalProjectFirstQarter.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Лена\GeekBrains\ТестировщикПО\Практика\ПрактикаC#\FinalProjectFirstQarter\obj\Debug\net6.0\FinalProjectFirstQarter.AssemblyInfo.cs
+C:\Users\user\Desktop\Лена\GeekBrains\ТестировщикПО\Практика\ПрактикаC#\FinalProjectFirstQarter\obj\Debug\net6.0\FinalProjectFirstQarter.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Лена\GeekBrains\ТестировщикПО\Практика\ПрактикаC#\FinalProjectFirstQarter\obj\Debug\net6.0\FinalProjectFirstQarter.dll
+C:\Users\user\Desktop\Лена\GeekBrains\ТестировщикПО\Практика\ПрактикаC#\FinalProjectFirstQarter\obj\Debug\net6.0\refint\FinalProjectFirstQarter.dll
+C:\Users\user\Desktop\Лена\GeekBrains\ТестировщикПО\Практика\ПрактикаC#\FinalProjectFirstQarter\obj\Debug\net6.0\FinalProjectFirstQarter.pdb
+C:\Users\user\Desktop\Лена\GeekBrains\ТестировщикПО\Практика\ПрактикаC#\FinalProjectFirstQarter\obj\Debug\net6.0\FinalProjectFirstQarter.genruntimeconfig.cache
+C:\Users\user\Desktop\Лена\GeekBrains\ТестировщикПО\Практика\ПрактикаC#\FinalProjectFirstQarter\obj\Debug\net6.0\ref\FinalProjectFirstQarter.dll
