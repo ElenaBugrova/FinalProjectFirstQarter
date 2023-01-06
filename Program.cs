@@ -8,19 +8,41 @@
 using System;
 using static System.Console;
 
-string [] Array=new string[4]{"Hello", "2", "world", ":-)"};
-
-Write($"{Array[0]}, {Array[1]}, {Array[2]}, {Array[3]}");
+string [] Array={"Hel", "2", "wor", ":-))"};
+PrintString(Array);
 WriteLine();
+
+
+void PrintString (string [] Array)
+{
+for (int i = 0; i < Array.Length; i++)
+{
+    Write(Array[i]);
+    if(i<Array.Length-1)Write(", ");
+}
+}
+
+
+
 string [] NewArray;
-NewArray= new string [2];
 int j=0;
-for (int i = 0; i < 4; i++)
+
+
+for (int i = 0; i < Array.Length; i++)
+{
+    if (Array[i].Length<=3)j++;
+   
+}
+NewArray= new string [j];
+for (int i = 0; i < Array.Length; i++)
 {
     if (Array[i].Length<=3)
     {
-        NewArray[j]=Array[i];
-        j++;
+        
     }
+   
 }
-Write($"{NewArray[0]}, {NewArray[1]}");
+
+
+PrintString(NewArray);
+
