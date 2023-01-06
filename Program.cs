@@ -13,7 +13,14 @@ string [] Array=new string[4]{"Hello", "2", "world", ":-)"};
 Write($"{Array[0]}, {Array[1]}, {Array[2]}, {Array[3]}");
 WriteLine();
 string [] NewArray;
+NewArray= new string [2];
+int j=0;
 for (int i = 0; i < 4; i++)
 {
-    if (Array[i].Length<=3)Write(Array[i]);
+    if (Array[i].Length<=3)
+    {
+        NewArray[j]=Array[i];
+        j++;
+    }
 }
+Write($"{NewArray[0]}, {NewArray[1]}");
