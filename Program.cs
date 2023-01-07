@@ -8,7 +8,7 @@
 using System;
 using static System.Console;
 
-string [] Array={"Hel", "2", "wor", ":-))"};
+string [] Array={"Hello", "2", "world", ":-)"};
 PrintString(Array);
 WriteLine();
 
@@ -22,11 +22,8 @@ for (int i = 0; i < Array.Length; i++)
 }
 }
 
-
-
 string [] NewArray;
 int j=0;
-
 
 for (int i = 0; i < Array.Length; i++)
 {
@@ -34,11 +31,13 @@ for (int i = 0; i < Array.Length; i++)
    
 }
 NewArray= new string [j];
-for (int i = 0; i < Array.Length; i++)
+int x=0;
+for (int n = 0; n < Array.Length; n++)
 {
-    if (Array[i].Length<=3)
+    if (Array[n].Length<=3)
     {
-        
+        NewArray[x]=Array[n];
+        x++;
     }
    
 }
